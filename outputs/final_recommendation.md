@@ -1,7 +1,7 @@
 # Final Recommendation
 **To:** Leadership  
 **From:** Radha Manasa Peesapati  
-**Date:** June 2026  
+**Date:** 28 June 2026  
 **Re:** Factors Driving Monthly Sales
 
 ---
