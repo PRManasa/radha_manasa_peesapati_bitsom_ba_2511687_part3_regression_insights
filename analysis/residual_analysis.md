@@ -1,6 +1,6 @@
 # Residual Analysis
 **Model used:** Model 4 (Multiple Regression)  
-**Name:** Radha Manasa Peesapati | **Date:** June 2026
+**Name:** Radha Manasa Peesapati | **Date:** 28 June 2026
 
 ---
 
